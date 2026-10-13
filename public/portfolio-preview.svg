@@ -1,0 +1,14 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#090909"/>
+  <circle cx="960" cy="116" r="260" fill="#EF4444" fill-opacity="0.16"/>
+  <circle cx="216" cy="600" r="260" fill="#DC2626" fill-opacity="0.1"/>
+  <rect x="64" y="64" width="1072" height="502" rx="36" fill="#111111" stroke="white" stroke-opacity="0.08" stroke-width="2"/>
+  <text x="110" y="224" fill="#FFFFFF" font-family="Poppins, Arial" font-size="82" font-weight="800">Yash</text>
+  <text x="338" y="224" fill="#EF4444" font-family="Poppins, Arial" font-size="82" font-weight="800">Patel</text>
+  <text x="114" y="294" fill="#9CA3AF" font-family="Poppins, Arial" font-size="30" font-weight="600">Frontend Developer</text>
+  <rect x="114" y="356" width="192" height="60" rx="30" fill="#EF4444"/>
+  <rect x="330" y="356" width="224" height="60" rx="30" fill="#171717" stroke="white" stroke-opacity="0.1"/>
+  <circle cx="868" cy="316" r="176" fill="#111111" stroke="#EF4444" stroke-width="12"/>
+  <circle cx="868" cy="284" r="62" fill="#B45C4C"/>
+  <path d="M754 457C768 378 808 335 868 335C928 335 969 378 982 457H754Z" fill="#2B1111"/>
+</svg>

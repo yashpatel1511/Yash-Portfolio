@@ -1,0 +1,37 @@
+<svg width="760" height="760" viewBox="0 0 760 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="760" rx="380" fill="#090909"/>
+  <circle cx="380" cy="380" r="342" fill="url(#portraitGlow)"/>
+  <circle cx="380" cy="380" r="310" fill="#111111" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  <circle cx="380" cy="306" r="106" fill="url(#skinTone)"/>
+  <path d="M260 644C272 520 314 453 380 453C446 453 488 520 500 644H260Z" fill="url(#shirtTone)"/>
+  <path d="M288 236C317 151 457 151 491 239C470 221 439 212 379 212C323 212 296 222 288 236Z" fill="#171717"/>
+  <path d="M284 274C292 211 330 183 381 183C434 183 471 213 478 276C438 246 323 246 284 274Z" fill="#0D0D0D"/>
+  <path d="M333 330C345 344 365 351 383 351C402 351 421 344 433 330" stroke="#341413" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="341" cy="292" r="11" fill="#171717"/>
+  <circle cx="419" cy="292" r="11" fill="#171717"/>
+  <path d="M379 299L365 329H390" stroke="#7A2A24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M304 566C339 587 420 594 456 566" stroke="#EF4444" stroke-width="26" stroke-linecap="round"/>
+  <circle cx="380" cy="380" r="352" stroke="url(#ring)" stroke-width="14"/>
+  <circle cx="380" cy="380" r="368" stroke="#EF4444" stroke-opacity="0.16" stroke-width="2"/>
+  <defs>
+    <radialGradient id="portraitGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(487 212) rotate(130) scale(456)">
+      <stop stop-color="#EF4444" stop-opacity="0.5"/>
+      <stop offset="0.45" stop-color="#DC2626" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#090909" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="skinTone" x1="292" y1="203" x2="477" y2="422" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F0B090"/>
+      <stop offset="1" stop-color="#9F4B3E"/>
+    </linearGradient>
+    <linearGradient id="shirtTone" x1="380" y1="453" x2="380" y2="644" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2A1111"/>
+      <stop offset="1" stop-color="#111111"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="124" y1="140" x2="646" y2="634" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EF4444"/>
+      <stop offset="0.42" stop-color="#DC2626" stop-opacity="0.24"/>
+      <stop offset="0.68" stop-color="#FFFFFF" stop-opacity="0.04"/>
+      <stop offset="1" stop-color="#EF4444"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="1200" height="780" viewBox="0 0 1200 780" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="780" rx="40" fill="#090909"/>
+  <rect x="44" y="44" width="1112" height="692" rx="32" fill="#111111" stroke="white" stroke-opacity="0.08" stroke-width="2"/>
+  <circle cx="983" cy="198" r="250" fill="#EF4444" fill-opacity="0.15"/>
+  <rect x="96" y="96" width="1008" height="80" rx="26" fill="#151515"/>
+  <rect x="134" y="124" width="160" height="24" rx="12" fill="white"/>
+  <rect x="236" y="124" width="72" height="24" rx="12" fill="#EF4444"/>
+  <rect x="784" y="116" width="122" height="40" rx="20" fill="white" fill-opacity="0.08"/>
+  <rect x="928" y="108" width="134" height="56" rx="28" fill="#EF4444"/>
+  <text x="116" y="348" fill="#FFFFFF" font-family="Poppins, Arial" font-size="76" font-weight="800">Yash</text>
+  <text x="334" y="348" fill="#EF4444" font-family="Poppins, Arial" font-size="76" font-weight="800">Patel</text>
+  <rect x="122" y="402" width="420" height="22" rx="11" fill="white" fill-opacity="0.12"/>
+  <rect x="122" y="448" width="328" height="22" rx="11" fill="white" fill-opacity="0.08"/>
+  <rect x="122" y="524" width="172" height="56" rx="28" fill="#EF4444"/>
+  <rect x="318" y="524" width="192" height="56" rx="28" fill="#171717" stroke="white" stroke-opacity="0.1"/>
+  <circle cx="823" cy="420" r="206" fill="#111111" stroke="#EF4444" stroke-width="14"/>
+  <circle cx="823" cy="383" r="72" fill="#B45C4C"/>
+  <path d="M691 585C706 492 752 442 823 442C894 442 940 492 955 585H691Z" fill="#2B1111"/>
+</svg>
