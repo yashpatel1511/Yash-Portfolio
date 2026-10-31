@@ -53,22 +53,22 @@ const Loader = ({ isVisible = true }: LoaderProps) => {
           </div>
 
           {/* Loading text + spinner BELOW ring */}
-          <div className="mt-1 flex items-center space-x-3">
+          {/* <div className="mt-1 flex items-center space-x-3"> */}
             {/* Spinner icon */}
-            <motion.div
+            {/* <motion.div
               className="h-5 w-5 rounded-full border-2 border-red-500 border-t-transparent"
               animate={{ rotate: 360 }}
               transition={{ duration: 0.8, repeat: Infinity, ease: "linear" }}
-            />
+            /> */}
             {/* Loading text */}
-            <motion.span
+            {/* <motion.span
               className="text-sm font-medium text-red-400 tracking-widest"
               animate={{ opacity: [0.4, 1, 0.4] }}
               transition={{ duration: 1.5, repeat: Infinity, ease: "easeInOut" }}
             >
               Loading Portfolio…
             </motion.span>
-          </div>
+          </div> */}
         </motion.div>
       )}
     </AnimatePresence>

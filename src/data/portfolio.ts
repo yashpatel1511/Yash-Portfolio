@@ -24,9 +24,9 @@ import {
 import { VscVscode } from "react-icons/vsc";
 import { Code2, Github, Linkedin, Mail, MapPin, Medal, Phone, Sparkles, Star, Trophy } from "lucide-react";
 import portrait from "@/assets/images/portrait.svg";
-import carviaImage from "@/assets/images/car.jpeg";
+import carviaImage from "@/assets/images/Carvia.jpg";
 import portfolioImage from "@/assets/images/portfolio.png";
-import taskManagerImage from "@/assets/images/taskmint.png";
+import taskManagerImage from "@/assets/images/Taskmint.jpg";
 import laneri from "@/assets/images/Laneri.png";
 import Kothari from "@/assets/images/Kothari.png";
 import { SITE } from "@/constants";
