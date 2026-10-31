@@ -9,14 +9,7 @@ npm install
 npm run dev
 ```
 
-## EmailJS
 
-Copy `.env.example` to `.env` and add your EmailJS keys:
-
-```bash
-VITE_EMAILJS_SERVICE_ID=your_service_id
-VITE_EMAILJS_TEMPLATE_ID=your_template_id
-VITE_EMAILJS_PUBLIC_KEY=your_public_key
 ```
 
 ## Build
