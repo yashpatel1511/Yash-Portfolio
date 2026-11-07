@@ -24,8 +24,10 @@ const Footer = () => {
               </a>
             </div>
             <p className="mt-5 max-w-md text-sm leading-7 text-luxury-muted">
-              A premium dark portfolio for {SITE.name}, focused on React, TypeScript, Tailwind CSS, and refined frontend
-              experiences.
+              {/* A premium dark portfolio for {SITE.name}, focused on React, TypeScript, Tailwind CSS, and refined frontend
+              experiences. */}
+              I craft refined, responsive, and performance-minded web experiences with React, TypeScript, Tailwind CSS, and
+              a strong eye for premium UI detail.
             </p>
           </div>
 
